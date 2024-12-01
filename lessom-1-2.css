@@ -1,0 +1,113 @@
+#headerOne{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+#starryNight img{
+    border: 1px;
+    width: 400px;
+    height: 300px;
+    padding-left: 2%;
+}
+#Top{
+    border: 1px;
+    font-size:  22px;
+    width: 400px;
+    text-align: center;
+    margin: 1px;
+    padding-left: 2%;
+}
+#lookUp{
+    width: 400px;
+    font-size: 17px;
+    text-align: center;
+    padding-left: 2%;
+}
+#explanation{
+    width: 400px;
+    color: rgb(76, 76, 226);
+    padding-left:2%;
+}
+#Forms{
+    width: 140px;
+    height: 50px;
+    text-align: center;
+    border:2px solid rgb(221, 221, 33);
+    border-radius: 1px;
+    background-color: white;
+    color: rgb(221, 221, 33);
+    cursor: pointer;
+    font-size: 18px;
+   
+}
+.magicGlowing h2{
+    font-size: 20px;
+    width: 480px;
+    text-align: center;
+    padding-left: 1%;
+}
+.magicGlowing p{
+    width: 480px;
+    text-align: center;
+    padding-left: 1%;
+}
+.magicGlowing h4{
+    color: green;
+    width: 480px;
+    text-align:center;
+    padding-left: 1%;
+}
+.magicGlowing ol{
+    color: palevioletred;
+    width: 480px;
+    text-align: left;
+    margin: 3px;
+    border: 1px;
+    padding-left: 5%;
+}
+.magicGlowing img{
+    width: 180px;
+    height: 200px;
+    border: 10px;
+    border-radius: 1px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-left: 2%;
+}
+
+.Questions{
+    border: 5px solid magenta;
+    width: 600px;
+    padding-left: 2%;
+    border
+
+}
+.Questions h4{
+    font-size: 22px;
+    border: 5px;
+    width: 700px;
+    padding-left: 1%;
+}
+.Questions ul{
+    list-style: none;
+    padding-left: 0;
+    background-color: white;
+}
+.Questions img{
+    width: 15px;
+}
+.Questions li{
+    padding-top: 10px;
+    color:rgba(194, 117, 18, 1);
+}
+#redatorX{
+    width: 200px;
+    height: 250px;
+}
+.footER{
+    width: 600px;
+    text-align:right;
+}
+.footER a{
+    color: rgba(0, 212, 188, 1);
+}
